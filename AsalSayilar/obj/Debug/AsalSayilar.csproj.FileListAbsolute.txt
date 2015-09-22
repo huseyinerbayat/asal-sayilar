@@ -1,0 +1,6 @@
+c:\users\hüseyin\documents\visual studio 2015\Projects\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.exe.config
+c:\users\hüseyin\documents\visual studio 2015\Projects\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.exe
+c:\users\hüseyin\documents\visual studio 2015\Projects\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.pdb
+c:\users\hüseyin\documents\visual studio 2015\Projects\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.exe
+c:\users\hüseyin\documents\visual studio 2015\Projects\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.pdb
+C:\Users\Hüseyin\Documents\Visual Studio 2015\Projects\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.csprojResolveAssemblyReference.cache
